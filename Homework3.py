@@ -28,7 +28,7 @@ print(bool(add(test3)))
 
 hot= int(input("Please Input a number?\n"))
 result= add(hot)
-print("The Number inputed was ", bool(result))
+print("The Number inputted was ", bool(result))
 print("This is the Unique List ",myuniquelist)
 print("This is the Leftover List ",myleftovers)
     
